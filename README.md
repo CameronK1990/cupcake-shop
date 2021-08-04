@@ -11,7 +11,7 @@
 
 ## Description
 
-_This is a fun project about cupcakes made for practicing HTML and CSS _
+ This is a fun project about cupcakes made for practicing HTML and CSS
 
 ## Setup/Installation Requirements
 
