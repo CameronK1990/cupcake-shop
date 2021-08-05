@@ -3,3 +3,8 @@ img {
   height: auto;
   border: 8px solid pink
 }
+img a {
+  max-width: 300px;
+  height: auto;
+  border: 8px purple
+}
