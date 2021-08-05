@@ -3,8 +3,12 @@ img {
   height: auto;
   border: 8px solid pink
 }
-img a {
-  max-width: 300px;
-  height: auto;
-  border: 8px purple
+h1 {
+  color:salmon
+}
+h2 {
+  color: paleturquoise
+}
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
